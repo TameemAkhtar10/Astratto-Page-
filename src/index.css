@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+*{
+  text-transform: capitalize;
+}
+.nav {
+  border-bottom: 2px solid grey ;
+}

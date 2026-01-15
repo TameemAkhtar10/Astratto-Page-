@@ -37,24 +37,24 @@ const Footer = () => {
       <div className="down flex flex-col lg:flex-row gap-6 lg:gap-0 justify-between text-gray-500 py-10 items-center text-center lg:text-left">
         
         <div className="one">
-          <p className="text-base sm:text-lg lg:text-xl font-semibold">
+          <p className="text-base sm:text-lg  font-semibold">
             Veni Vidi Vici, 25, I came I saw I conquered
           </p>
         </div>
 
         <div className="two flex gap-5">
           <a href="https://www.instagram.com/tamimm_10/" target="_blank">
-            <i className="text-2xl sm:text-3xl ri-instagram-line"></i>
+            <i className="text-2xl ri-instagram-line"></i>
           </a>
           <a href="https://www.linkedin.com/in/tameem-akhtar-b94117343/" target="_blank">
-            <i className="text-2xl sm:text-3xl ri-linkedin-line"></i>
+            <i className="text-2xl  ri-linkedin-line"></i>
           </a>
           <a href="https://github.com/TameemAkhtar10" target="_blank">
-            <i className="text-2xl sm:text-3xl ri-github-fill"></i>
+            <i className="text-2xl  ri-github-fill"></i>
           </a>
         </div>
 
-        <div className="three flex flex-col sm:flex-row gap-3 text-sm sm:text-base lg:text-xl items-center">
+        <div className="three flex flex-col sm:flex-row gap-3 text-sm sm:text-base lg:text-lg items-center">
           <p>Privacy Policy</p>
           <p>© 2025 Tameem. All rights reserved.</p>
         </div>

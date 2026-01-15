@@ -4,7 +4,6 @@ const Footer = () => {
   return (
     <div className="relative px-4 sm:px-6 lg:px-8 py-6 mx-4 sm:mx-8 lg:mx-14 border-2 border-gray-500 rounded-3xl">
       
-      {/* TOP */}
       <div className="up border-b-2 border-gray-500 pb-10">
         <p className="text-center font-semibold text-[#8A00F9] text-base sm:text-lg lg:text-xl mt-8">
           Open the door to forging your Pomodoro Timer
@@ -33,7 +32,6 @@ const Footer = () => {
         </div>
       </div>
 
-      {/* BOTTOM */}
       <div className="down flex flex-col lg:flex-row gap-6 lg:gap-0 justify-between text-gray-500 py-10 items-center text-center lg:text-left">
         
         <div className="one">
